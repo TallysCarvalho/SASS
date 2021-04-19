@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "media_querys.scss"
+    ],
+    "names": [],
+    "file": "media_querys.css"
+}
